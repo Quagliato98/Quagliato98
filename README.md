@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quagliato98&label=Profile%20views&color=0e75b6&style=flat" alt="quagliato98" /> </p>
 
-- 🌱 Atualmente, estou estudando **HTML5, CSS3**
+- 🌱 Atualmente, estou estudando **JavaScript**
 
 - 💬 Me pergunte sobre **HTML5 e CSS3**
 
