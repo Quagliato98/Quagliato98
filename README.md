@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quagliato98&label=Profile%20views&color=0e75b6&style=flat" alt="quagliato98" /></p>
 
-<p>Atualmente, estou trabalhando na empresa Grupo Voalle como Analista de Qualidade, onde executo testes funcionais de interface e API e não-funcionais como de performance e testes básicos de segurança.
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andreyquagliato" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="andreyquagliato"/></a>
