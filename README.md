@@ -1,5 +1,4 @@
 <h1 align="center">Olá, me chamo Andrey Quagliato</h1>
-<h3 align="center">Analista de Qualidade no Grupo Voalle</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quagliato98&label=Profile%20views&color=0e75b6&style=flat" alt="quagliato98" /></p>
 
