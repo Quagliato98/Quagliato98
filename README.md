@@ -53,6 +53,7 @@
 
 🔹 [**projeto_tecnologica**](https://github.com/Quagliato98/projeto_tecnologica)  
 🔸 Projeto prático das aulas de "Aplicações Web e Móveis" da faculdade de Engenharia de Software | Uninter
+
 ---
 
 ## 🧩 Soft Skills
