@@ -45,10 +45,14 @@
 ---
 
 ## 📌 Projetos em destaque
+🔹 [**saucedemo**](https://github.com/Quagliato98/saucedemo)  
+🔸 Desafio técnico com foco em automação de testes na WEB. Este desafio visa avaliar as habilidades em automação de testes utilizando Cypress, JavaScript, Git, e CI/CD.
 
 🔹 [**cypress-express-mark**](https://github.com/Quagliato98/cypress-express-mark)  
 🔸 Automação de testes E2E com Cypress para validação de preços, interação com elementos aleatórios e assertivas dinâmicas.
 
+🔹 [**projeto_tecnologica**](https://github.com/Quagliato98/projeto_tecnologica)  
+🔸 Projeto prático das aulas de "Aplicações Web e Móveis" da faculdade de Engenharia de Software | Uninter
 ---
 
 ## 🧩 Soft Skills
