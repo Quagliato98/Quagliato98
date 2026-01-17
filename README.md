@@ -2,15 +2,11 @@
 
 <p align="center">
   <b>QA Pleno | Testes Manuais & Automatizados | Cypress | Postman | CI/CD</b><br>
-  <i>Garantindo qualidade de ponta a ponta em produtos digitais</i>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andreyquagliato/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Quagliato98" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" />
   </a>
 </p>
 
@@ -24,7 +20,7 @@
 
 - BDD com **Gherkin**
 - Testes de API com **Postman**
-- Automação E2E com **Cypress**
+- Automação E2E e API com **Cypress**
 - Testes de performance com **JMeter**
 - Integração contínua com **GitHub Actions**
 - Consultas com **PostgreSQL**
@@ -48,9 +44,6 @@
 🔹 [**saucedemo**](https://github.com/Quagliato98/saucedemo)  
 🔸 Desafio técnico com foco em automação de testes na WEB. Este desafio visa avaliar as habilidades em automação de testes utilizando Cypress, JavaScript, Git, e CI/CD.
 
-🔹 [**cypress-express-mark**](https://github.com/Quagliato98/cypress-express-mark)  
-🔸 Automação de testes E2E com Cypress para validação de preços, interação com elementos aleatórios e assertivas dinâmicas.
-
 🔹 [**projeto_tecnologica**](https://github.com/Quagliato98/projeto_tecnologica)  
 🔸 Projeto prático das aulas de "Aplicações Web e Móveis" da faculdade de Engenharia de Software | Uninter
 
@@ -62,27 +55,6 @@
 🚀 Proatividade e adaptabilidade  
 📅 Boa gestão de tempo  
 🤝 Trabalho em equipe multidisciplinar  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Andrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Quagliato98&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quagliato98&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Quagliato98&theme=darkhub&no-frame=true&no-bg=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
